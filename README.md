@@ -15,5 +15,7 @@ This is a visually appealing, voice-enabled AI chatbot built using Google's Gemi
 -  Refuses to solve math questions (as per assignment rule)
 
 
-<img width="850" height="203" alt="lv12" src="https://github.com/user-attachments/assets/dbfe0c30-b1d9-4fbb-9596-15628fdb0fe1" />
 
+<img width="847" height="470" alt="lv11" src="https://github.com/user-attachments/assets/c48cd215-d4dd-4006-b547-10f6bbe51e19" />
+
+<img width="850" height="203" alt="lv12" src="https://github.com/user-attachments/assets/d5f18353-2a63-42d4-b163-0c1ac0b6eb38" />
