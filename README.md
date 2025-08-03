@@ -14,3 +14,6 @@ This is a visually appealing, voice-enabled AI chatbot built using Google's Gemi
 -  Stores chat in `interaction_logs.txt`
 -  Refuses to solve math questions (as per assignment rule)
 
+
+<img width="850" height="203" alt="lv12" src="https://github.com/user-attachments/assets/dbfe0c30-b1d9-4fbb-9596-15628fdb0fe1" />
+
